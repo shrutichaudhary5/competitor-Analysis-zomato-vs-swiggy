@@ -8,61 +8,18 @@ Competitor Analysis Report: Zomato vs Swiggy
 Zomato and Swiggy are India’s top food delivery platforms, revolutionizing how people order food online. While Zomato has a strong international presence and diverse revenue streams, Swiggy dominates the Indian market with its efficient logistics and quick-commerce expansion. This report provides a detailed analysis of their Unique Selling Points (USP), Pricing Model, Key Features, Market Share, Strengths & Weaknesses to understand their competitive landscape.
 
 📊 2. Competitor Overview
+## 🏆 Competitor Overview: Zomato vs Swiggy
 
-Feature
-
-Zomato 🟥
-
-Swiggy 🟦
-
-Company Name
-
-Zomato
-
-Swiggy
-
-Founded
-
-2008
-
-2014
-
-Headquarters
-
-Gurugram, India
-
-Bengaluru, India
-
-Business Model
-
-Food Delivery, Dine-in, Subscription (Zomato Gold), Advertising
-
-Food Delivery, Instamart (Grocery), Swiggy Genie (Parcel Delivery)
-
-Revenue (FY 2023)
-
-₹7,079 Cr
-
-₹8,265 Cr
-
-Active Users
-
-80+ Million
-
-100+ Million
-
-Delivery Fleet
-
-300,000+
-
-330,000+
-
-International Presence
-
-Yes (UAE, Lebanon, etc.)
-
-No (Only India)
-
+| Feature | Zomato 🟥 | Swiggy 🟦 |
+|-----------------------|---------------------------------------------|-------------------------------------------|
+| **Company Name** | Zomato | Swiggy |
+| **Founded** | 2008 | 2014 |
+| **Headquarters** | Gurugram, India | Bengaluru, India |
+| **Business Model** | Food Delivery, Dine-in, Subscription (Zomato Gold), Advertising | Food Delivery, Instamart (Grocery), Swiggy Genie (Parcel Delivery) |
+| **Revenue (FY 2023)** | ₹7,079 Cr | ₹8,265 Cr |
+| **Active Users** | 80+ Million | 100+ Million |
+| **Delivery Fleet** | 300,000+ | 330,000+ |
+| **International Presence** | Yes (UAE, Lebanon, etc.) | No (Only India) |
 
 🔹 3. Unique Selling Points (USP)
 
