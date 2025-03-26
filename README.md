@@ -154,7 +154,39 @@ Zomato and Swiggy are India’s top food delivery platforms, revolutionizing how
 
 2. Higher Delivery Costs – Charges higher delivery fees compared to Zomato in some locations.
 
-3. Heavily Discount Dependent – Customer retention depends on ongoing discounts.
+3. Heavily Discount Dependent – Customer retention depends on ongoing discount
+
+
+   
+## 🍽️ **Zomato vs Swiggy: A Comparative Analysis**
+
+Zomato and Swiggy are India's leading food delivery platforms. This report compares their **market position, business models, revenue, and other key aspects**. The infographics below provide a clearer visual representation of their comparison.
+
+---
+
+### **📊 1️⃣ Swiggy vs Zomato: Key Business Metrics**
+![Swiggy vs Zomato Business Metrics](https://tse3.mm.bing.net/th?id=OIP.ecsM8EoJ4Jr0ZPxlZRSkXAHaLd&pid=Api)
+
+📌 **Image Description:**
+👉 This infographic compares the **key business metrics** of Swiggy and Zomato, such as **order volume, growth, market share, and daily order traffic**.
+👉 It highlights Swiggy’s **fast delivery services** and **Instamart** impact, while showcasing Zomato’s **brand value and international expansion**.
+
+## 💰 Swiggy vs Zomato: Financial Performance & Market Standing
+
+![Swiggy vs Zomato Market Performance](https://tse3.mm.bing.net/th?id=OIP.jWuo0t3HrYnH9t1wWvFO4AHaD6&pid=Api)
+
+**Image Description:**
+- This infographic presents a detailed comparison of the financial performance of Swiggy and Zomato.
+- It examines key indicators such as revenue, profitability, and overall market standing, providing insights into each company's ability to sustain growth and competitiveness in the food delivery market.
+
+
+  ## 📉 Zomato vs Swiggy: Pre-Uber Eats Acquisition Comparison
+
+![Zomato vs Swiggy Before Uber Eats](https://tse2.mm.bing.net/th?id=OIP.fKiNmZKc-XSNBKfz6eEg9wHaEt&pid=Api)
+
+**Image Description:**
+- This infographic compares Zomato and Swiggy in the period before 2020, when Zomato had not yet acquired Uber Eats.
+- It highlights early growth patterns, revenue trends, and the initial business strategies of both companies, offering insights into their market positioning at that time.
 
 
 # 📌 8. Conclusion & Recommendations
