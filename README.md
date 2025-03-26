@@ -22,7 +22,17 @@ Zomato and Swiggy are India’s top food delivery platforms, revolutionizing how
 | **International Presence** | Yes (UAE, Lebanon, etc.) | No (Only India) |
 
 🔹 3. Unique Selling Points (USP)
+```md
+# Unique Selling Points (USP)
 
+| Feature | Zomato | Swiggy |
+|--------------|--------|--------|
+| **Loyalty Program** | Zomato Gold (₹149/month) – Discounts on dining & delivery | Swiggy One (₹99/month) – Free delivery & discounts |
+| **Delivery Speed** | Standard | Faster with Instamart (Groceries) |
+| **Restaurant Partnerships** | Extensive tie-ups with premium restaurants | Wider range including local food chains |
+| **Market Differentiator** | Strong dine-in discounts | Quick commerce & grocery delivery |
+| **Commission from Restaurants** | 18-25% per order | 18-25% per order |
+```
 
 
 ✅ Zomato:
