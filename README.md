@@ -58,87 +58,18 @@ Zomato and Swiggy are India’s top food delivery platforms, revolutionizing how
 
 
 💰 4. Pricing Model Comparison
+## 🏷 Pricing Model Comparison
 
-Pricing Model
-
-Zomato 🟥
-
-Swiggy 🟦
-
-Delivery Charges
-
-₹20-₹50 (Depends on distance)
-
-₹20-₹50 (Depends on distance)
-
-Subscription Plan
-
-Zomato Gold (₹149/month)
-
-Swiggy One (₹99/month)
-
-Restaurant Commission
-
-18-25% per order
-
-18-25% per order
-
-Advertising Fees
-
-Restaurants pay to appear at the top
-
-Similar advertising model
-
-Cancellation Charges
-
-₹30-₹50
-
-₹30-₹50
-
+| Feature | Zomato 🟥 | Swiggy 🟦 |
+|-------------------------|----------|----------|
+| **Delivery Charges** | ₹20 - ₹50 (Depends on distance) | ₹20 - ₹50 (Depends on distance) |
+| **Subscription Plan** | Zomato Gold (₹149/month) – Discounts on dining & delivery | Swiggy One (₹99/month) – Free delivery & discounts |
+| **Restaurant Commission** | 18-25% per order | 18-25% per order |
+| **Additional Fees** | Platform fees, surge pricing during peak hours | Platform fees, surge pricing during peak hours |
+| **Discount Strategy** | Bank offers, promo codes, seasonal discounts | Aggressive discounts, cashback offers |
+| **Cancellation Charges** | ₹30 - ₹50 (Depending on order & restaurant) | ₹30 - ₹50 (Depending on order & restaurant) |
 
 🔑 5. Key Features
-
-Feature
-
-Zomato 🟥
-
-Swiggy 🟦
-
-Live Order Tracking
-
-✅ Yes
-
-✅ Yes
-
-Table Booking for Restaurants
-
-✅ Yes
-
-❌ No
-
-Subscription Plan
-
-✅ Zomato Gold
-
-✅ Swiggy One
-
-Grocery Delivery
-
-❌ No
-
-✅ Yes (Swiggy Instamart)
-
-Parcel Delivery Service
-
-❌ No
-
-✅ Yes (Swiggy Genie)
-
-Loyalty Points & Discounts
-
-✅ Yes
-
-✅ Yes
 
 
 📊 6. Market Share & Growth
