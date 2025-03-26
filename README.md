@@ -70,7 +70,20 @@ Zomato and Swiggy are India’s top food delivery platforms, revolutionizing how
 | **Cancellation Charges** | ₹30 - ₹50 (Depending on order & restaurant) | ₹30 - ₹50 (Depending on order & restaurant) |
 
 🔑 5. Key Features
+## 🔑 Key Features Comparison
 
+| Feature | Zomato 🟥 | Swiggy 🟦 |
+|-------------------------|----------|----------|
+| **Food Delivery** | ✅ Available | ✅ Available |
+| **Dine-in Discounts** | ✅ Zomato Gold | ❌ Not Available |
+| **Grocery Delivery** | ❌ Not Available | ✅ Swiggy Instamart |
+| **Parcel Delivery** | ❌ Not Available | ✅ Swiggy Genie |
+| **Live Order Tracking** | ✅ Available | ✅ Available |
+| **Subscription Plan** | ✅ Zomato Gold | ✅ Swiggy One |
+| **Loyalty/Rewards** | ✅ Zomato Reward Points | ✅ Swiggy Super Coins |
+| **24/7 Service** | ✅ In Select Cities | ✅ In Select Cities |
+| **Customer Support** | 🟠 Chat & Email Support | 🟠 Chat & Email Support |
+| **Offers & Discounts** | ✅ Bank offers, Coupons | ✅ Aggressive Discounts |
 
 📊 6. Market Share & Growth
 
